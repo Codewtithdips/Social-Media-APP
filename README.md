@@ -6,8 +6,7 @@ Here is the video of the full project, demonstrating how to use it and showcasin
 [![Watch the video](https://img.youtube.com/vi/TMQP7kf9f0s/maxresdefault.jpg
 )](https://youtu.be/TMQP7kf9f0s)
 
-Here is the video of the full project, demonstrating how to use it and showcasing its features.
-This is a full-fledged social media web application built using the **Django framework**. The app allows users to register, create profiles, follow other users, and interact through posts. The goal is to provide a seamless social networking experience with features like user authentication, profile customization, and a dynamic news feed.
+This Social Media App is a feature-rich platform built using Django, Django REST Framework, HTML, CSS, and Bootstrap, designed to provide a seamless and engaging user experience. It includes user authentication, profile customization, and a dynamic feed, allowing users to connect and interact effortlessly. Secure login and registration are implemented using Django ORM, ensuring robust database management. The application’s responsive UI, crafted with HTML, CSS, and Bootstrap, ensures compatibility across different devices, delivering an intuitive and visually appealing interface. This project demonstrates a blend of backend efficiency and frontend responsiveness, making it a scalable and modern social networking solution.
 
 ## 📂 Features
 - **User Authentication**: Signup, Login, Logout, and Password Reset.
@@ -28,11 +27,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/social-media-app.git
+   https://github.com/Codewtithdips/Social-Media-APP.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd social-media-app
+   cd Social-Media-APP
    ```
 3. Create and activate a virtual environment:
    ```bash
@@ -41,7 +40,8 @@ To run this project locally, follow these steps:
    ```
 4. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install django djangorestframework
+
    ```
 5. Apply migrations and start the server:
    ```bash
@@ -70,13 +70,9 @@ To run this project locally, follow these steps:
 - Implement notifications for likes/comments
 - Deploy the app using AWS or Heroku
 
-## 📜 License
-This project is licensed under the MIT License.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
 
 ## 📞 Contact
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: your-email@example.com
+- **GitHub**: [My GitHub Profile](https://github.com/Codewtithdips)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dipankardebnath-/)
+- **Email**: debnathdpankar27@gamil.com
