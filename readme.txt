@@ -1,3 +1,6 @@
 # Here is the video of the full project, demonstrating how to use it and showcasing its features.
 
-https://github.com/user-attachments/assets/cfb40e2e-764c-4a83-b2a2-92b52abd6563
+
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/TMQP7kf9f0s/maxresdefault.jpg)](https://youtu.be/TMQP7kf9f0s)
