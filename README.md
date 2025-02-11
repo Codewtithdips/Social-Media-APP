@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 Here is the video of the full project, demonstrating how to use it and showcasing its features:
-https://github.com/user-attachments/assets/fee049e6-7d96-4121-9e0e-c9c9b576cf47
+[![Watch the video](https://github.com/user-attachments/assets/fee049e6-7d96-4121-9e0e-c9c9b576cf47)](https://youtu.be/TMQP7kf9f0s)
 
 Here is the video of the full project, demonstrating how to use it and showcasing its features.
 This is a full-fledged social media web application built using the **Django framework**. The app allows users to register, create profiles, follow other users, and interact through posts. The goal is to provide a seamless social networking experience with features like user authentication, profile customization, and a dynamic news feed.
@@ -79,4 +79,3 @@ Contributions, issues, and feature requests are welcome!
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Email**: your-email@example.com
-
