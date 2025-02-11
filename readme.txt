@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 
-[![Watch the video](https://img.youtube.com/vi/TMQP7kf9f0s/maxresdefault.jpg
-)](https://youtu.be/TMQP7kf9f0s)
+https://github.com/user-attachments/assets/f99fe8e4-717b-4643-a618-04fbd904cc65
 
 
 
