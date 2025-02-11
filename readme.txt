@@ -1,7 +1,3 @@
-# Here is the video of the full project, demonstrating how to use it and showcasing its features.
-
-
-## 🎥 Project Demo
 
 <video width="100%" controls autoplay>
   <source src="https://youtu.be/TMQP7kf9f0s" type="video/mp4">
