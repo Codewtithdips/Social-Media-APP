@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 
 Here is the video of the full project, demonstrating how to use it and showcasing its features:
-[![Watch the video](https://img.youtube.com/vi/nDdps-DpMRo/maxresdefault.jpg)](https://youtu.be/nDdps-DpMRo)
+[![Watch the video](https://img.youtube.com/vi/TMQP7kf9f0s/maxresdefault.jpg
+)](https://youtu.be/TMQP7kf9f0s)  
 
 
 This Social Media App is a feature-rich platform built using Django, Django REST Framework, HTML, CSS, and Bootstrap, designed to provide a seamless and engaging user experience. It includes user authentication, profile customization, and a dynamic feed, allowing users to connect and interact effortlessly. Secure login and registration are implemented using Django ORM, ensuring robust database management. The application’s responsive UI, crafted with HTML, CSS, and Bootstrap, ensures compatibility across different devices, delivering an intuitive and visually appealing interface. This project demonstrates a blend of backend efficiency and frontend responsiveness, making it a scalable and modern social networking solution.
